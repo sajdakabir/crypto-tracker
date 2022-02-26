@@ -3,7 +3,7 @@
 Fetching every data from  CoinGecko API it's totally free to use.
 
 ## Demo
-#### Here is a working live demo :
+#### Here is a working live demo :https://crypt-h.netlify.app/
 
 
 - [React JS](https://reactjs.org/)
