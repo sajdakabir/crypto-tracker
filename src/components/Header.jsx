@@ -49,7 +49,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Hunter
+              CoinRush
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
             <Select
