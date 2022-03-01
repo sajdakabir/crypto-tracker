@@ -1,4 +1,5 @@
 import { makeStyles } from "@material-ui/core";
+import Alert from "./components/Alert";
 import { BrowserRouter, Route} from "react-router-dom";
 import './App.css'
 import Coinpage from "./components/Coinpage";
@@ -23,6 +24,7 @@ function App() {
       <Route path="/" component={Homepage} exact />
       <Route path="/coins/:id" component={Coinpage} exact />
     </div>
+    <Alert/>
   </BrowserRouter>
   );
 }
