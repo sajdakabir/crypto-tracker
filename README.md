@@ -12,4 +12,4 @@ Fetching every data from  CoinGecko API it's totally free to use.
 - [CoinGecko API](https://www.coingecko.com/)
 
 
-## Made with ♥ By [Sajda Kabir](https://www.linkedin.com/in/sajdakabir)
+## Thanks Sajda
