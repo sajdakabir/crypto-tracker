@@ -1,4 +1,7 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+#Coin Rush
+
+An app for crypto lovers to login, watch and even wishlist their favorite cryptocurrency. Using an open-source crypto API to update coin details in real-time, chart trends to compare the history and a currency converter from INR to USD.
+
 
 Fetching every data from  CoinGecko API it's totally free to use.
 
